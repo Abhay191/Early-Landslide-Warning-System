@@ -1,7 +1,7 @@
 
 ---
 
-# Landslide Sensor Data Analysis
+# Early Landslide Warning System
 
 This project involves data cleaning and analysis of landslide sensor data collected from various sensors installed at 10 locations around the Mandi district. The dataset includes attributes such as temperature, humidity, pressure, rainfall, light, and moisture.
 
