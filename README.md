@@ -57,11 +57,6 @@ This project involves data cleaning and analysis of landslide sensor data collec
    pip install -r requirements.txt
    ```
 
-3. Run the Jupyter Notebook to execute the analysis:
-   ```sh
-   jupyter notebook
-   ```
-
 ## Conclusion
 
 This project demonstrates efficient data cleaning and analysis techniques on landslide sensor data. It highlights handling missing values using mean and interpolation methods, and outlier detection and treatment using interquartile range and median replacement.
