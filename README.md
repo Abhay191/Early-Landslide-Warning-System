@@ -62,14 +62,6 @@ This project involves data cleaning and analysis of landslide sensor data collec
    jupyter notebook
    ```
 
-## Results
-
-- **Missing Values Plot**: Visual representation of missing values in each attribute.
-- **Deleted Tuples**: Number of tuples deleted based on criteria.
-- **Statistics Comparison**: Comparison of mean, median, mode, and standard deviation before and after filling missing values.
-- **RMSE Plot**: RMSE values for each attribute comparing original and replaced values.
-- **Outlier Detection**: List and boxplots of outliers before and after replacement.
-
 ## Conclusion
 
 This project demonstrates efficient data cleaning and analysis techniques on landslide sensor data. It highlights handling missing values using mean and interpolation methods, and outlier detection and treatment using interquartile range and median replacement.
