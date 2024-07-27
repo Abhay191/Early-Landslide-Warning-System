@@ -44,18 +44,6 @@ This project involves data cleaning and analysis of landslide sensor data collec
 - matplotlib
 - numpy
 
-### Steps to Run the Code
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/landslide-data-analysis.git
-   cd landslide-data-analysis
-   ```
-
-2. Install the required libraries:
-   ```sh
-   pip install -r requirements.txt
-   ```
 
 ## Conclusion
 
